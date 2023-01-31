@@ -1,7 +1,4 @@
-# Pytorch-CNN-For-Cars-Classification
-
-# Resident Salary Prediction:
-
+# Pytorch CNN For Cars Classification
 
 Part 1 Project introduction
 
